@@ -14,6 +14,9 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
+    "@supabase/ssr": "^0.4.1",
+    "@supabase/supabase-js": "^2.81.1",
+    "@vercel/edge-config": "^1.4.3",
     "axios": "^1.7.8",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
